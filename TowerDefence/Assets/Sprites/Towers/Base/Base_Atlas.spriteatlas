@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Base_Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: fde06053f1fcb22488e9606ac87355a3, type: 3}
+    - {fileID: 2800000, guid: 24c553be96c902a44b1d23cd89147003, type: 3}
+    - {fileID: 2800000, guid: 3212987217d41494192dbd3f81f3c3ae, type: 3}
+    - {fileID: 2800000, guid: 6ce63e8a344261242b6108f082b891a8, type: 3}
+    - {fileID: 2800000, guid: ddad8100098978d4ea9b7fdda7832954, type: 3}
+    - {fileID: 2800000, guid: d674c5bab5492494098a77dc6b04b737, type: 3}
+    - {fileID: 2800000, guid: beef9ef2582094b45864f35bfe07b584, type: 3}
+    totalSpriteSurfaceArea: 114688
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 3212987217d41494192dbd3f81f3c3ae, type: 3}
+  - {fileID: 21300000, guid: fde06053f1fcb22488e9606ac87355a3, type: 3}
+  - {fileID: 21300000, guid: beef9ef2582094b45864f35bfe07b584, type: 3}
+  - {fileID: 21300000, guid: 24c553be96c902a44b1d23cd89147003, type: 3}
+  - {fileID: 21300000, guid: 6ce63e8a344261242b6108f082b891a8, type: 3}
+  - {fileID: 21300000, guid: ddad8100098978d4ea9b7fdda7832954, type: 3}
+  - {fileID: 21300000, guid: d674c5bab5492494098a77dc6b04b737, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Tower_Base_Upgrade_2
+  - Tower_Base_Upgrade_0
+  - Tower_Base_Upgrade_6
+  - Tower_Base_Upgrade_1
+  - Tower_Base_Upgrade_3
+  - Tower_Base_Upgrade_4
+  - Tower_Base_Upgrade_5
+  m_RenderDataMap: {}
+  m_Tag: Base_Atlas
+  m_IsVariant: 0

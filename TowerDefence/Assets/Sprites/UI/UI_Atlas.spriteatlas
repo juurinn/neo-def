@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UI_Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 582b9e19fb9867445bc56c062b5a781d, type: 3}
+    totalSpriteSurfaceArea: 183596
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: bcc674b0ed48b1d4d8052f50ab4d3619, type: 3}
+  - {fileID: 21300000, guid: 4936e48165b33764a99e8dce81775421, type: 3}
+  - {fileID: 21300000, guid: ac4840a1e9e60c6499aa6e31fa148648, type: 3}
+  - {fileID: 21300000, guid: 807dcd529ee5e6c40b7922ba02d2f774, type: 3}
+  - {fileID: 21300000, guid: 84408672ec3993948aa9320c1d2094b1, type: 3}
+  - {fileID: 21300000, guid: e7b18e33506d21548bf007a97643e03d, type: 3}
+  - {fileID: 21300000, guid: 6341f1489d3fa274cbe8514c6ba8f302, type: 3}
+  - {fileID: 21300000, guid: 8835a4b8f70a792418aa3ec83a5967e6, type: 3}
+  - {fileID: 21300000, guid: 9671556a6ed5c7f4ab5408ecf18cd885, type: 3}
+  - {fileID: 21300000, guid: b257298bf94d00a488a085dffa010f28, type: 3}
+  - {fileID: 21300000, guid: c4cf518dfe7ca3d4da55e8edf7f64a7e, type: 3}
+  - {fileID: 21300000, guid: bef8cd1ec4ffbf443b04562bd375fbca, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - GUI_Slider_Background
+  - GUI_Shop_BasicTower
+  - GUI_Shop_JavelinTower
+  - GUI_Shop_CryoTower
+  - GUI_Panel_Octagon
+  - GUI_Panel
+  - GUI_Slider_Handle_Transparent
+  - GUI_Panel_Box
+  - GUI_Shop_PulseTower
+  - GUI_Shop_LaserTower
+  - GUI_Slider_Fill
+  - GUI_Shop_BleedTower
+  m_RenderDataMap: {}
+  m_Tag: UI_Atlas
+  m_IsVariant: 0
